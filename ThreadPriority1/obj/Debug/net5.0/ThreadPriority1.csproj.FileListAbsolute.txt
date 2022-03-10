@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\bin\Debug\net5.0\ThreadPriority1.exe
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\bin\Debug\net5.0\ThreadPriority1.deps.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\bin\Debug\net5.0\ThreadPriority1.runtimeconfig.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\bin\Debug\net5.0\ThreadPriority1.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\bin\Debug\net5.0\ThreadPriority1.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\bin\Debug\net5.0\ref\ThreadPriority1.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\bin\Debug\net5.0\ThreadPriority1.pdb
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\obj\Debug\net5.0\ThreadPriority1.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\obj\Debug\net5.0\ThreadPriority1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\obj\Debug\net5.0\ThreadPriority1.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\obj\Debug\net5.0\ThreadPriority1.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\obj\Debug\net5.0\ThreadPriority1.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\obj\Debug\net5.0\ThreadPriority1.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\obj\Debug\net5.0\ref\ThreadPriority1.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\obj\Debug\net5.0\ThreadPriority1.pdb
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPriority1\obj\Debug\net5.0\ThreadPriority1.genruntimeconfig.cache

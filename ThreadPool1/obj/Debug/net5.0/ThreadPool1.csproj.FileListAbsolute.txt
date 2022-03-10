@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\bin\Debug\net5.0\ThreadPool1.exe
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\bin\Debug\net5.0\ThreadPool1.deps.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\bin\Debug\net5.0\ThreadPool1.runtimeconfig.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\bin\Debug\net5.0\ThreadPool1.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\bin\Debug\net5.0\ThreadPool1.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\bin\Debug\net5.0\ref\ThreadPool1.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\bin\Debug\net5.0\ThreadPool1.pdb
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\obj\Debug\net5.0\ThreadPool1.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\obj\Debug\net5.0\ThreadPool1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\obj\Debug\net5.0\ThreadPool1.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\obj\Debug\net5.0\ThreadPool1.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\obj\Debug\net5.0\ThreadPool1.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\obj\Debug\net5.0\ThreadPool1.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\obj\Debug\net5.0\ref\ThreadPool1.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\obj\Debug\net5.0\ThreadPool1.pdb
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadPool1\obj\Debug\net5.0\ThreadPool1.genruntimeconfig.cache

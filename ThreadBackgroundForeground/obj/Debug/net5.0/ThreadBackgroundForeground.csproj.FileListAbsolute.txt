@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\bin\Debug\net5.0\ThreadBackgroundForeground.exe
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\bin\Debug\net5.0\ThreadBackgroundForeground.deps.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\bin\Debug\net5.0\ThreadBackgroundForeground.runtimeconfig.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\bin\Debug\net5.0\ThreadBackgroundForeground.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\bin\Debug\net5.0\ThreadBackgroundForeground.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\bin\Debug\net5.0\ref\ThreadBackgroundForeground.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\bin\Debug\net5.0\ThreadBackgroundForeground.pdb
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\obj\Debug\net5.0\ThreadBackgroundForeground.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\obj\Debug\net5.0\ThreadBackgroundForeground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\obj\Debug\net5.0\ThreadBackgroundForeground.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\obj\Debug\net5.0\ThreadBackgroundForeground.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\obj\Debug\net5.0\ThreadBackgroundForeground.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\obj\Debug\net5.0\ThreadBackgroundForeground.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\obj\Debug\net5.0\ref\ThreadBackgroundForeground.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\obj\Debug\net5.0\ThreadBackgroundForeground.pdb
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\WorkWithThreads\ThreadBackgroundForeground\obj\Debug\net5.0\ThreadBackgroundForeground.genruntimeconfig.cache
